@@ -60,3 +60,4 @@ Technical Requirements
 Contact
 • Author: Bogdan Savchuk
 • GitHub: https://github.com/Bogdan1412
+• https://bogdan1412.github.io/Dynamic-Typing-Animation/
